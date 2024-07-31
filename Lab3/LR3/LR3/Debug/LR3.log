@@ -1,0 +1,12 @@
+﻿  LR3.cpp
+D:\MPEI\Security\Lab3\LR3\LR3\LR3.cpp(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+LR3.obj : error LNK2019: ссылка на неразрешенный внешний символ _gcry_strsource в функции _main.
+LR3.obj : error LNK2019: ссылка на неразрешенный внешний символ _gcry_md_open в функции _main.
+LR3.obj : error LNK2019: ссылка на неразрешенный внешний символ _gcry_md_close в функции _main.
+LR3.obj : error LNK2019: ссылка на неразрешенный внешний символ _gcry_md_ctl в функции _main.
+LR3.obj : error LNK2019: ссылка на неразрешенный внешний символ _gcry_md_write в функции _main.
+LR3.obj : error LNK2019: ссылка на неразрешенный внешний символ _gcry_md_read в функции _main.
+LR3.obj : error LNK2019: ссылка на неразрешенный внешний символ _gcry_md_get_algo_dlen в функции _main.
+D:\MPEI\Security\Lab3\LR3\lib\x64\libgcrypt.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+D:\MPEI\Security\Lab3\LR3\lib\x64\gcrypt.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+D:\MPEI\Security\Lab3\LR3\Debug\LR3.exe : fatal error LNK1120: неразрешенных внешних элементов: 7

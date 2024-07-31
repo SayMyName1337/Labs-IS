@@ -1,0 +1,8 @@
+D:\MPEI\Security\LR1\Activation\Activation\obj\Debug\Activation.csproj.AssemblyReference.cache
+D:\MPEI\Security\LR1\Activation\Activation\obj\Debug\Activation.csproj.SuggestedBindingRedirects.cache
+D:\MPEI\Security\LR1\Activation\Activation\obj\Debug\Activation.csproj.CoreCompileInputs.cache
+D:\MPEI\Security\LR1\Activation\Activation\bin\Debug\Activation.exe.config
+D:\MPEI\Security\LR1\Activation\Activation\bin\Debug\Activation.exe
+D:\MPEI\Security\LR1\Activation\Activation\bin\Debug\Activation.pdb
+D:\MPEI\Security\LR1\Activation\Activation\obj\Debug\Activation.exe
+D:\MPEI\Security\LR1\Activation\Activation\obj\Debug\Activation.pdb

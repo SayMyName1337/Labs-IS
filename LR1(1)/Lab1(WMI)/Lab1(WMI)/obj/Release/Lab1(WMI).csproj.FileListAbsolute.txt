@@ -1,0 +1,8 @@
+D:\MPEI\Защита информации\LR1\Lab1(WMI)\Lab1(WMI)\bin\Release\Lab1(WMI).exe.config
+D:\MPEI\Защита информации\LR1\Lab1(WMI)\Lab1(WMI)\bin\Release\Lab1(WMI).exe
+D:\MPEI\Защита информации\LR1\Lab1(WMI)\Lab1(WMI)\bin\Release\Lab1(WMI).pdb
+D:\MPEI\Защита информации\LR1\Lab1(WMI)\Lab1(WMI)\obj\Release\Lab1(WMI).csproj.AssemblyReference.cache
+D:\MPEI\Защита информации\LR1\Lab1(WMI)\Lab1(WMI)\obj\Release\Lab1(WMI).csproj.SuggestedBindingRedirects.cache
+D:\MPEI\Защита информации\LR1\Lab1(WMI)\Lab1(WMI)\obj\Release\Lab1(WMI).csproj.CoreCompileInputs.cache
+D:\MPEI\Защита информации\LR1\Lab1(WMI)\Lab1(WMI)\obj\Release\Lab1(WMI).exe
+D:\MPEI\Защита информации\LR1\Lab1(WMI)\Lab1(WMI)\obj\Release\Lab1(WMI).pdb

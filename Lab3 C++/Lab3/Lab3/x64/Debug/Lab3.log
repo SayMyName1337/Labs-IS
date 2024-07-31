@@ -1,0 +1,4 @@
+﻿  Lab3.cpp
+D:\MPEI\Security\Lab3 C++\Lab3\Lab3\Lab3.cpp(141,23): warning C4018: <: несоответствие типов со знаком и без знака
+libgcrypt.lib(logging.obj) : warning LNK4099: "" PDB не найден с "libgcrypt.lib(logging.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  Lab3.vcxproj -> D:\MPEI\Security\Lab3 C++\Lab3\x64\Debug\Lab3.exe

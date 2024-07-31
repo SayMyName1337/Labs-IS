@@ -1,0 +1,16 @@
+C:\Users\SayMyName\Desktop\9492298\9492298\src\Prog1\bin\Release\Prog1.exe.config
+C:\Users\SayMyName\Desktop\9492298\9492298\src\Prog1\bin\Release\Prog1.exe
+C:\Users\SayMyName\Desktop\9492298\9492298\src\Prog1\bin\Release\Prog1.pdb
+C:\Users\SayMyName\Desktop\9492298\9492298\src\Prog1\obj\Release\Prog1.csproj.AssemblyReference.cache
+C:\Users\SayMyName\Desktop\9492298\9492298\src\Prog1\obj\Release\Prog1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SayMyName\Desktop\9492298\9492298\src\Prog1\obj\Release\Prog1.csproj.CoreCompileInputs.cache
+C:\Users\SayMyName\Desktop\9492298\9492298\src\Prog1\obj\Release\Prog1.exe
+C:\Users\SayMyName\Desktop\9492298\9492298\src\Prog1\obj\Release\Prog1.pdb
+D:\MPEI\Security\LR1\LR1\src\Prog1\bin\Release\Prog1.exe.config
+D:\MPEI\Security\LR1\LR1\src\Prog1\bin\Release\Prog1.exe
+D:\MPEI\Security\LR1\LR1\src\Prog1\bin\Release\Prog1.pdb
+D:\MPEI\Security\LR1\LR1\src\Prog1\obj\Release\Prog1.csproj.AssemblyReference.cache
+D:\MPEI\Security\LR1\LR1\src\Prog1\obj\Release\Prog1.csproj.SuggestedBindingRedirects.cache
+D:\MPEI\Security\LR1\LR1\src\Prog1\obj\Release\Prog1.csproj.CoreCompileInputs.cache
+D:\MPEI\Security\LR1\LR1\src\Prog1\obj\Release\Prog1.exe
+D:\MPEI\Security\LR1\LR1\src\Prog1\obj\Release\Prog1.pdb
